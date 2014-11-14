@@ -1,0 +1,25 @@
+awpipl2
+|
+|-bin                            ;compiled libraries
+|  |
+|  Borland6                      ;by Birland C++ Bulder 6.0
+|  |
+|  vc6                           ;by Microsoft Visual Studio 6.x
+|  |
+|  vc8                           ;by Microsoft Visual Studio 2005
+|
+|-borland                        ;project source for Birland C++  6.0
+|-debian                         ;project source for Debian
+|-doc                            ;project documentation 
+|
+|-include
+|  |
+|  _include
+|
+|-scripts                        ; 
+|-src                            ;source codes 
+|-vc                             
+   |                             
+   vc2005                        ;project source for Microsoft Visual Studio 2005 
+   |
+   vc6                           ;project source for Microsoft Visual Studio 6.x
